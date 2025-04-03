@@ -10,7 +10,7 @@ I am an AI/ML enthusiast passionate about building intelligent systems that push
 - 💞️ Looking to collaborate on AI-driven projects, NFT reward systems, and Web3-integrated applications.  
 
 ### 📫 How to Reach Me  
-- LinkedIn: [Your LinkedIn Profile](#)  
+- LinkedIn: https://www.linkedin.com/in/mohamed-ajmeer-4a6310308 
 - GitHub: [Ajmeer-007](https://github.com/Ajmeer-007)  
 
 ### ⚡ Fun Fact  

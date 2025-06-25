@@ -11,7 +11,8 @@ I am an AI/ML enthusiast passionate about building intelligent systems that push
 
 ### 📫 How to Reach Me  
 - LinkedIn: https://www.linkedin.com/in/mohamed-ajmeer-4a6310308 
-- GitHub: [Ajmeer-007](https://github.com/Ajmeer-007)  
+- GitHub: [Ajmeer-007](https://github.com/Ajmeer-007)
+- Gmail: mohamedajmeer20051103@gmail.com
 
 ### ⚡ Fun Fact  
 I enjoy studying successful entrepreneurs, optimizing problem-solving strategies, and building futuristic AI-powered ecosystems.  

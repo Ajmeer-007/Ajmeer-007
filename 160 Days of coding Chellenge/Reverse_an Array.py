@@ -1,20 +1,11 @@
 class Solution:
-    def getSecondLargest(self, arr):
-        # Code Here
-        arr.sort()
-        #maxi = max(arr)
-        n = len(arr)
-        cur_max = arr[0]
+    def reverseArray(self, arr):
+        # code here
+        n=len(arr)
+        last = n-1
+        for i in range(len(arr)//2):
+            arr[i],arr[last] = arr[last],arr[i]
+            last-=1
+        return arr
         
-        if n == 1:
-            return -1
-            
-        for i in range(n):
-            if arr[i]>cur_max and arr[i] != arr[n-1]:
-                cur_max = arr[i]
-                
-        if (cur_max != arr[n-1]):
-            return cur_max
-        else:
-            return -1
                 

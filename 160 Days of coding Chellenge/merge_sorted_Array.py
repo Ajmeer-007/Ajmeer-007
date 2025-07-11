@@ -1,20 +1,19 @@
-class Solution:
-    def getSecondLargest(self, arr):
-        # Code Here
-        arr.sort()
-        #maxi = max(arr)
-        n = len(arr)
-        cur_max = arr[0]
-        
-        if n == 1:
-            return -1
+
+class Solution(object):
+    def merge(self, nums1, m, nums2, n):
+        """
+        :type nums1: List[int]
+        :type m: int
+        :type nums2: List[int]
+        :type n: int
+        :rtype: None Do not return anything, modify nums1 in-place instead.
+        """
+        mer = 0
+        for i in range(m,m+n):
             
-        for i in range(n):
-            if arr[i]>cur_max and arr[i] != arr[n-1]:
-                cur_max = arr[i]
-                
-        if (cur_max != arr[n-1]):
-            return cur_max
-        else:
-            return -1
+                nums1[i] = nums2[mer] 
+                mer+=1
+            
+        return nums1.sort()
+
                 

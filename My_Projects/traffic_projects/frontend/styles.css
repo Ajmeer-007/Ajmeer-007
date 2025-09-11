@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Poppins, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  background: #fafafa;
+  color: #111;
+}
+
+/* Scope everything to avoid clashes with old styles */
+.tmx-app {
+  max-width: 1200px;
+  margin: 24px auto 40px;
+  padding: 0 16px;
+}
+
+.tmx-app h1 {
+  text-align: center;
+  margin: 8px 0 6px;
+  font-size: 28px;
+}
+
+.tmx-sub {
+  text-align: center;
+  margin: 0 0 20px;
+  color: #444;
+}
+
+/* Intersection grid */
+.tmx-intersection {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(260px, 1fr));
+  gap: 16px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* Card */
+.tmx-card {
+  background: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.tmx-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-bottom: 1px solid #eee;
+  background: #f7f7f7;
+}
+
+.tmx-dir {
+  font-weight: 600;
+}
+
+.tmx-text-btn {
+  background: transparent;
+  border: none;
+  color: #0b5ed7;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 4px 6px;
+}
+.tmx-text-btn:hover { text-decoration: underline; }
+
+/* Video area with fixed aspect ratio to keep the grid tidy */
+.tmx-card-body {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9; /* keeps consistent height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f2f4f7;
+}
+
+.tmx-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Big pick button shown before a file is selected */
+.tmx-choose-btn {
+  padding: 10px 14px;
+  border: 1px dashed #bbb;
+  background: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.tmx-card-footer {
+  padding: 8px 12px;
+  font-size: 13px;
+  color: #666;
+  border-top: 1px solid #eee;
+  min-height: 36px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tmx-filename {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Actions */
+.tmx-actions {
+  display: flex;
+  justify-content: center;
+  margin: 18px 0 6px;
+}
+
+.tmx-run {
+  background: #0b5ed7;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 22px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 6px 16px rgba(11, 94, 215, 0.25);
+}
+.tmx-run:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+/* Results */
+.tmx-result {
+  max-width: 720px;
+  margin: 18px auto 0;
+  padding: 16px 18px;
+  background: #f5f7fb;
+  border: 1px solid #e6ebf5;
+  border-radius: 12px;
+  min-height: 140px;
+}
+.tmx-placeholder {
+  text-align: center;
+  color: #666;
+}
+.tmx-list {
+  list-style: none;
+  margin: 10px 0 0;
+  padding: 0;
+}
+.tmx-list li { margin: 6px 0; }
+.tmx-error {
+  color: #b00020;
+  font-weight: 600;
+}
+
+/* Responsive */
+@media (max-width: 800px) {
+  .tmx-intersection { grid-template-columns: 1fr; }
+  .tmx-actions { margin-top: 14px; }
+}

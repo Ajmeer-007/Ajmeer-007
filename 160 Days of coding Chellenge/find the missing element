@@ -1,0 +1,10 @@
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        s = set(nums)
+        n = len(nums)
+        for i in range(n+1):
+            if i in s:
+                continue
+            else:
+                return i
+        # this problem can also can be solved using recurevive mothed. in this we take only the unique element thus we simply get the dic i mean set .

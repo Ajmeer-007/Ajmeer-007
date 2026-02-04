@@ -1,0 +1,60 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+public class Solution {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        ListNode start = headA;
+        ListNode tail = headB;
+        while(start != tail)
+        {
+            if(start==null)
+            {
+                start = headB;
+            }
+            else
+            {
+                start = start.next;
+            }
+
+            if(tail == null)
+            {
+                tail = headA;
+            }
+            else
+            {
+                tail = tail.next;
+            }
+        }
+        return tail.value;
+    }
+}
+
+"160. Intersection of Two Linked Lists
+Solved
+Easy
+Topics
+premium lock icon
+Companies
+Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
+
+For example, the following two linked lists begin to intersect at node c1:
+
+
+The test cases are generated such that there are no cycles anywhere in the entire linked structure.
+
+Note that the linked lists must retain their original structure after the function returns."
+****************************************************************************************************************************************************************************************************
+concept:
+in the linked list we connot get the memmory address of the two LL if we use while loop at the same time.
+for instead we need to maek sure that the both list are travel thrugh the same length. if we do then we can get the answer
+for that we need to merge the one LL to other LL if we found the null else move to next node.
+finally we need to check the node it self not value or the next node.
+return the node not the value.

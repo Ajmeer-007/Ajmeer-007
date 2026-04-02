@@ -1,19 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FBE&height=200&section=header&text=Mohamed%20Ajmeer&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Web3%20Builder%20%7C%20Hackathon%20Warrior&descAlignY=60&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FBE&height=220&section=header&text=Mohamed%20Ajmeer&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Turning%20Data%20into%20Intelligence%20%7C%20ML%20%E2%80%A2%20DL%20%E2%80%A2%20GenAI%20%E2%80%A2%20LLMs&descAlignY=62&descSize=17&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Web3+%26+Blockchain+Builder+%E2%9B%93%EF%B8%8F;Solving+Real+World+Problems+with+AI+%F0%9F%9A%80;Always+Building%2C+Always+Learning+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+%F0%9F%91%8B+I'm+Mohamed+Ajmeer;A+Passionate+AI+%2F+ML+Engineer+%F0%9F%A4%96;Deep+Learning+%26+GenAI+Enthusiast+%F0%9F%A7%A0;Building+LLMs+that+Think+%26+Reason+%F0%9F%94%A5;Turning+Raw+Data+into+Real+Impact+%F0%9F%9A%80;Obsessed+with+Solving+Hard+Problems+%E2%9A%A1)](https://github.com/Ajmeer-007)
 
 ---
 
 ## 🧠 About Me
 
-> *"Passionate about building intelligent systems that push the boundaries of what's possible."*
+> *"I don't just study AI — I breathe it, build it, and push it to its limits."*
 
-I'm **Mohamed Ajmeer** — an **AI/DS student** obsessed with solving real-world problems through intelligent systems. I sit at the intersection of **Machine Learning**, **Blockchain**, and **Web3**, crafting solutions that don't just work — they *matter*.
+I'm **Mohamed Ajmeer** — a **relentless AI/ML enthusiast** on a mission to build intelligent systems that solve real-world problems. My obsession lives in the deep end of **Machine Learning**, **Deep Learning**, **Generative AI**, and **Large Language Models**.
 
-- 🔭 Building **AI-powered adaptive learning platforms**, **blockchain ranking systems**, and **AI city exploration guides**
-- 🌱 Leveling up in **advanced ML**, **Google Cloud**, and **full-stack web dev**
-- ⚡ Addicted to **hackathons** — where constraints breed innovation
-- 🤝 Open to collaborate on **AI-driven projects**, **NFT reward systems**, and **Web3-integrated apps**
+- 🔭 Building **AI-powered adaptive learning platforms**, **LLM-driven apps**, and **NLP pipelines**
+- 🌱 Going deep into **Transformers**, **RAG systems**, **fine-tuning LLMs**, and **Google Cloud**
+- ⚡ Addicted to **hackathons** — where time pressure turns ideas into products
+- 🤝 Open to collaborate on **AI research**, **GenAI applications**, and **end-to-end ML systems**
 - 📍 Chennai, Tamil Nadu, India
 
 ---
@@ -26,18 +26,19 @@ I'm **Mohamed Ajmeer** — an **AI/DS student** obsessed with solving real-world
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D4FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### AI / ML Stack
+### AI / ML / DL / GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00D4FF)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 
 ### Web & Cloud
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![Ethereum](https://img.shields.io/badge/Web3%2FBlockchain-0D1117?style=for-the-badge&logo=ethereum&logoColor=627EEA)
 
 ---
 
@@ -50,10 +51,10 @@ I'm **Mohamed Ajmeer** — an **AI/DS student** obsessed with solving real-world
 ![Transformers](https://img.shields.io/badge/Transformers-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=openai&logoColor=00D4FF)
 
-- 📄 Upload any document → get instant summaries
-- ❓ Auto-generates quizzes from content
-- 💬 AI chat assistant for content-based Q&A
-- 🔁 Full end-to-end learning pipeline with feedback loop
+- 📄 Upload any document → get instant AI-generated summaries
+- ❓ Auto-generates quizzes from content for comprehension testing
+- 💬 AI chat assistant answers questions based on learned context
+- 🔁 End-to-end pipeline: ingest → understand → summarize → assess
 
 ---
 
@@ -64,24 +65,24 @@ I'm **Mohamed Ajmeer** — an **AI/DS student** obsessed with solving real-world
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 
-- ⚡ REST API accepting JSON patient data via POST
-- 🌲 Random Forest model with high prediction accuracy
-- 📊 Returns binary result: `1 = Diabetes` / `0 = No Diabetes`
-- 🐳 Future: Docker + Cloud deployment planned
+- ⚡ REST API accepting JSON patient data via POST request
+- 🌲 Trained Random Forest model with strong predictive accuracy
+- 📊 Binary result: `1 = Diabetes Detected` / `0 = No Diabetes`
+- 🐳 Future roadmap: Docker containerization + Cloud deployment
 
 ---
 
 ### 📄 [Document Summarizer & Q&A — RAG System](https://github.com/Ajmeer-007)
-> A Colab-based RAG system that summarizes PDF/DOCX/TXT files and answers questions using semantic retrieval + Wikipedia fallback.
+> A Colab-based RAG pipeline that summarizes PDF/DOCX/TXT files and answers questions using semantic retrieval + Wikipedia fallback.
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D4FF)
 ![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logo=meta&logoColor=00D4FF)
 ![HuggingFace](https://img.shields.io/badge/Transformers-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
 
-- 📁 Supports PDF, DOCX, and TXT formats
-- 🔍 Retrieval-Augmented Generation for precise answers
-- 🌐 Wikipedia fallback when answer isn't in the document
-- 🧠 Built with `sentence-transformers`, `faiss-cpu`, and `PyMuPDF`
+- 📁 Supports PDF, DOCX, and TXT file formats
+- 🔍 Retrieval-Augmented Generation for context-aware answers
+- 🌐 Wikipedia fallback when answer isn't found in the document
+- 🧠 Powered by `sentence-transformers`, `faiss-cpu`, and `PyMuPDF`
 
 ---
 
@@ -91,7 +92,13 @@ I'm **Mohamed Ajmeer** — an **AI/DS student** obsessed with solving real-world
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmeer-007&layout=compact&langs_count=8&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ajmeer-007&theme=tokyonight&background=0D1117&border=00D4FF&stroke=00D4FF&ring=7B2FBE&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=AAAAAA)
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ajmeer-007&theme=tokyonight&background=0D1117&border=00D4FF&stroke=00D4FF&ring=7B2FBE&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=AAAAAA&hide_border=false)
+
+### 🌿 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajmeer-007&bg_color=0D1117&color=00D4FF&line=7B2FBE&point=00D4FF&area=true&hide_border=false&border_color=00D4FF)
 
 ---
 
